@@ -27,10 +27,10 @@ Este projeto explora o uso de IAs generativas para criar imagens realistas e com
 ### Comparação 1: Paisagem de Montanhas com Neve
 
 **Imagem Gerada pela IA (SeaArt.ai)**  
-![Paisagem gerada pela IA](colocar_dps)
+![Paisagem gerada pela IA](https://github.com/ruruluvy/lab-natty-or-not/blob/main/imagem%20de%20paisagem%20montanhosa.ia.png)
 
 **Imagem de Artista Real (Unsplash)**  
-![Paisagem de um artista real](colocar_dps)
+![Paisagem de um artista real](https://github.com/ruruluvy/lab-natty-or-not/blob/main/arte%20de%20paisagem%20montanhosa.unsplash.jpg)
 
 #### Análise
 A imagem gerada pela IA apresenta uma paisagem alpina com neve, onde chalés estão localizados entre árvores cobertas de neve. A composição é equilibrada, com o pico da montanha centralizado e destacado por uma iluminação suave. Observa-se uma nitidez impressionante e uso de luz realista, especialmente nas sombras sobre a neve. No entanto, há uma uniformidade excessiva nas texturas e ausência de "imperfeições naturais", que confeririam maior autenticidade à cena.
@@ -45,10 +45,10 @@ A imagem gerada pela IA impressiona pela clareza e estética idealizada, mas car
 ### Comparação 2: Retrato de Leão
 
 **Imagem Gerada pela IA (SeaArt.ai)**  
-![Retrato gerado pela IA](colocar_dps)
+![Retrato gerado pela IA](https://github.com/ruruluvy/lab-natty-or-not/blob/main/imagem%20de%20leao.ia.png)
 
 **Imagem de Artista Real (Unsplash)**  
-![Retrato de um artista real](colocar_dps)
+![Retrato de um artista real](https://github.com/ruruluvy/lab-natty-or-not/blob/main/retrato%20de%20leao.unsplash.jpg)
 
 #### Análise
 A imagem gerada pela IA apresenta um leão com um estilo incrivelmente limpo e simétrico. Observa-se que a IA priorizou uma aparência mais estilizada, com alto contraste entre os tons claros e escuros, dando ênfase à simetria facial e à textura da pelagem. As bordas são bem definidas, quase sem imperfeições, resultando em uma estética que parece mais "perfeita" e menos natural.
@@ -71,5 +71,5 @@ O projeto também evidencia o papel complementar entre a criatividade humana e a
 Enquanto as ferramentas de IA continuam a evoluir rapidamente e se aproximar do realismo, o talento e a intuição humanos permanecem insubstituíveis. A fusão entre tecnologia e criatividade humana pode ser o caminho mais promissor, onde ambas as forças trabalham em harmonia para expandir os limites da arte e do design. Este projeto reafirma a importância de valorizar a singularidade do olhar humano, enquanto exploramos e celebramos o potencial infinito das tecnologias emergentes.
 
 ## 🔗 Links do Projeto
-- [Repositório no GitHub](colocar_dps)
-- [Comparação em PDF](colocar_dps)
+- [Repositório no GitHub](https://github.com/ruruluvy/lab-natty-or-not)
+- [Comparação em PDF](https://github.com/ruruluvy/lab-natty-or-not/blob/main/Compara%C3%A7%C3%A3o%20Imagens%20Geradas%20por%20IA%20vs.%20Imagens%20Reais.pdf)
